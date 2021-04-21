@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Java开发相关存档下载
+前言
+记录是为了不遗忘
 
-You can use the [editor on GitHub](https://github.com/xiaomingjava/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## jdk
+* Java SE 最新下载 | Oracle 技术网 ：
+  http://www.oracle.com/technetwork/cn/java/javase/downloads/index.html
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 存档地址（需Oracle账号）：
+  http://www.oracle.com/technetwork/cn/java/archive-139210-zhs.html
 
-### Markdown
+## spring
+  2.x.x, 3.x.x, 4.x.x, 5.x.x 等
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 存档 http://repo.spring.io/release/org/springframework/spring/
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaomingjava/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## eclipse
+* Eclipse IDE for Java EE Developers
+  http://www.eclipse.org/downloads/packages/
+* eclipse-sdk
+  http://archive.eclipse.org/eclipse/downloads/
+* eclipse 插件
+  http://marketplace.eclipse.org/
